@@ -1,34 +1,73 @@
-NexusIntrospect — Proprietary License
-Copyright (c) 2026 chaosfox26 (Nexus Unleashed). All Rights Reserved.
+NexusIntrospect — PROPRIETARY SOFTWARE LICENSE AGREEMENT (EULA)
+Copyright (c) 2026 chaosfox26 (Nexus Unleashed). ALL RIGHTS RESERVED.
 
-IMPORTANT — READ CAREFULLY.
+IMPORTANT — READ CAREFULLY. This is a binding legal agreement between you ("You") and the
+copyright holder ("Licensor") for the NexusIntrospect software, including its code, assets,
+and documentation (the "Software"). BY INSTALLING, COPYING, RUNNING, OR OTHERWISE USING THE
+SOFTWARE, YOU AGREE TO BE BOUND BY THIS AGREEMENT. IF YOU DO NOT AGREE, DO NOT INSTALL OR USE
+THE SOFTWARE, AND DELETE ALL COPIES.
 
-NexusIntrospect (the "Software") is proprietary and confidential. It is an original,
-independently authored work, created clean-room from the WildStar client's own scripting
-API and its author's own work.
+The Software is an original, independently authored work. It is licensed, not sold. It is NOT
+open source and is EXPRESSLY EXCLUDED from, and NOT covered by, the MIT License (or any other
+license) that applies to the NexusUnleashed server engine or any other component distributed
+with it. No open-source rights are granted.
 
-THE SOFTWARE IS NOT OPEN SOURCE. It is expressly EXCLUDED from, and NOT covered by, the
-MIT License (or any other open-source license) that applies to the NexusUnleashed server
-engine or any other component distributed alongside it. The MIT grant covering the engine
-does NOT extend to this Software.
+1. LIMITED LICENSE GRANT. Subject to Your continuous and complete compliance with this
+   Agreement, Licensor grants You a personal, revocable, non-exclusive, non-transferable,
+   non-sublicensable, limited license to do ONLY the following, and NOTHING else:
+     (a) install ONE (1) unmodified copy of the Software into a WildStar game client that You
+         own or control; and
+     (b) run that copy, unmodified, in that client SOLELY to interoperate with a genuine
+         Nexus Unleashed ("NUSL") server.
+   This grant exists only to allow the Software to be installed and used alongside NUSL. It
+   confers no other right of any kind.
 
-No license or right is granted, by implication, estoppel, or otherwise, to any person to:
-  - copy, reproduce, or redistribute the Software, in whole or in part;
-  - modify, adapt, translate, or create derivative works of the Software;
-  - decompile, disassemble, reverse-engineer, or otherwise attempt to derive the source or
-    internal logic of the Software beyond what is expressly permitted by non-waivable law;
-  - sublicense, sell, rent, lease, or otherwise transfer the Software; or
-  - remove, obscure, or alter this notice.
+2. RESTRICTIONS. Except only to the minimum extent that a given restriction is prohibited by
+   applicable law that cannot be waived by contract, You shall NOT, and shall not permit or
+   enable any third party to:
+     (a) copy or reproduce the Software, except the single install expressly permitted above;
+     (b) distribute, publish, transmit, host, mirror, lend, rent, lease, sell, resell, or
+         otherwise make the Software available to any third party, in whole or in part;
+     (c) modify, adapt, translate, port, or create derivative works of the Software;
+     (d) decompile, disassemble, reverse-engineer, or otherwise attempt to derive the source
+         code, algorithms, structure, or internal logic of the Software;
+     (e) circumvent, disable, or interfere with any license, activation, gating, or security
+         mechanism of the Software or of NUSL;
+     (f) use the Software with, or to support, any server or service other than a genuine NUSL
+         server, or for any competitive, benchmarking, or commercial purpose;
+     (g) remove, obscure, or alter any copyright, license, or proprietary notice; or
+     (h) use the Software in any manner not expressly authorized by Section 1.
 
-The Software is bundled with the NexusUnleashed server solely to be installed and run ON
-Nexus Unleashed realms by the operator of such a realm. All other rights are reserved by the
-copyright holder.
+3. RESERVATION OF RIGHTS; OWNERSHIP. The Software is owned by Licensor and is protected by
+   copyright and other laws. ALL RIGHTS NOT EXPRESSLY GRANTED IN SECTION 1 ARE RESERVED BY
+   LICENSOR. No title or ownership passes to You.
 
-To request any permission not granted above, contact the copyright holder.
+4. DISTRIBUTION ONLY WITH NUSL. The Software may be distributed to You ONLY as an unmodified
+   component of an official NUSL server distribution provided by Licensor, and installed only
+   through the means Licensor provides (including the NUSL server launcher). You may not
+   distribute the Software independently of NUSL under any circumstances.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+5. TERMINATION. This Agreement and the license in Section 1 terminate AUTOMATICALLY and
+   IMMEDIATELY upon any breach by You, without notice. Licensor may also revoke the license at
+   any time. Upon termination You must immediately cease all use and destroy all copies of the
+   Software. Sections 2 through 8 survive termination.
 
-Note (for the copyright holder): copyright in this work exists automatically upon creation;
-this notice declares and reserves it. For stronger enforcement remedies (e.g. statutory
-damages) you may optionally register the work with your national copyright office under your
-legal name — that registration is a private step and is not part of this file.
+6. NO WARRANTY. THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY
+   KIND, WHETHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY. TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL LICENSOR
+   BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY
+   LOSS OF DATA, USE, OR PROFITS, ARISING OUT OF OR RELATED TO THE SOFTWARE OR THIS AGREEMENT.
+
+8. GENERAL. If any provision is held unenforceable, it shall be limited or severed to the
+   minimum extent necessary and the remainder shall remain in effect. This Agreement is the
+   entire agreement between the parties regarding the Software and supersedes all prior
+   understandings. Licensor's failure to enforce any provision is not a waiver. To request any
+   permission not granted above, contact the copyright holder.
+
+Note (for the copyright holder, not part of the license): copyright subsists automatically upon
+creation; this Agreement declares and reserves it. Some jurisdictions grant non-waivable rights
+to reverse-engineer strictly for interoperability; Section 2 already yields to such law by its
+own terms. For the strongest enforcement remedies (e.g. statutory damages in the U.S.) you may
+optionally register the work under your legal name — a private step, not part of this file.
