@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright (c) 2026 chaosfox26 (Nexus Unleashed). ALL RIGHTS RESERVED. Proprietary; NOT
+     open source; NOT covered by the MIT license of the NexusUnleashed engine. See LICENSE.txt. -->
+<Addon Name="NexusIntrospect" Description="Enumerates the client's own API surface - what functions and objects actually exist on this build - so nothing has to be guessed. (c) chaosfox26 - proprietary, all rights reserved." Version="1" Author="chaosfox26 (Nexus Unleashed)" APIVersion="16">
+    <Script Name="NexusIntrospect.lua"/>
+</Addon>

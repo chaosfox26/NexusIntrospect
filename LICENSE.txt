@@ -1,0 +1,34 @@
+NexusIntrospect — Proprietary License
+Copyright (c) 2026 chaosfox26 (Nexus Unleashed). All Rights Reserved.
+
+IMPORTANT — READ CAREFULLY.
+
+NexusIntrospect (the "Software") is proprietary and confidential. It is an original,
+independently authored work, created clean-room from the WildStar client's own scripting
+API and its author's own work.
+
+THE SOFTWARE IS NOT OPEN SOURCE. It is expressly EXCLUDED from, and NOT covered by, the
+MIT License (or any other open-source license) that applies to the NexusUnleashed server
+engine or any other component distributed alongside it. The MIT grant covering the engine
+does NOT extend to this Software.
+
+No license or right is granted, by implication, estoppel, or otherwise, to any person to:
+  - copy, reproduce, or redistribute the Software, in whole or in part;
+  - modify, adapt, translate, or create derivative works of the Software;
+  - decompile, disassemble, reverse-engineer, or otherwise attempt to derive the source or
+    internal logic of the Software beyond what is expressly permitted by non-waivable law;
+  - sublicense, sell, rent, lease, or otherwise transfer the Software; or
+  - remove, obscure, or alter this notice.
+
+The Software is bundled with the NexusUnleashed server solely to be installed and run ON
+Nexus Unleashed realms by the operator of such a realm. All other rights are reserved by the
+copyright holder.
+
+To request any permission not granted above, contact the copyright holder.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+Note (for the copyright holder): copyright in this work exists automatically upon creation;
+this notice declares and reserves it. For stronger enforcement remedies (e.g. statutory
+damages) you may optionally register the work with your national copyright office under your
+legal name — that registration is a private step and is not part of this file.
